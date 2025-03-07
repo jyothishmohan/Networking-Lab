@@ -20,6 +20,5 @@ do
     array+=("$element")
 done
 
-# Call the function to display the elements
 display_array "${array[@]}"
 
